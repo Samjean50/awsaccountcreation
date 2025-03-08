@@ -47,7 +47,7 @@ Steps to Create an AWS Account
  - Navigate to [AWS Official Website](https://aws.amazon.com/free/?gclid=Cj0KCQiA8q--BhDiARIsAP9tKI07VHV1QXEVIrPyqJY2KaS2vutYznUXSdOmaKX-iKbFqQ6SYu9ML0YaAvZhEALw_wcB&trk=ce1f55b8-6da8-4aa2-af36-3f11e9a449ae&sc_channel=ps&ef_id=Cj0KCQiA8q--BhDiARIsAP9tKI07VHV1QXEVIrPyqJY2KaS2vutYznUXSdOmaKX-iKbFqQ6SYu9ML0YaAvZhEALw_wcB:G:s&s_kwcid=AL!4422!3!433803621002!e!!g!!aws%20sign%20up!9762827897!98496538743&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all).
 
  - Click Create an AWS Account.
-![create-account](aws-create-account.png)
+![create-account](https://github.com/Samjean50/awsaccountcreation/blob/main/images/aws-create-account.png)
 
 1. Enter Account Details:
 
@@ -72,11 +72,11 @@ Enter the verification code sent to your phone/email.
 7. Choose a Support Plan:
 
 Select Basic (Free) unless additional support is needed.
-![complete signup](complete-signup.png)
+![complete signup](https://github.com/Samjean50/awsaccountcreation/blob/main/images/complete-signup.png)
 8. Sign in to AWS Console:
 
 Once the account is activated, log in using the provided credentials.
-![success](signup-successful.png)
+![success](https://github.com/Samjean50/awsaccountcreation/blob/main/images/signup-successful.png)
 
 #### Troubleshooting
 
@@ -91,8 +91,7 @@ Steps to Access AWS Console
 1. Log in to AWS:
 
 Visit AWS Console and sign in.
-![sign in](signintoconsole.png)
-
+![sign in](https://github.com/Samjean50/awsaccountcreation/blob/main/images/signup-successful.png)
 2. Understand AWS Free Tier:
 
 Check Free Tier usage limits to avoid unexpected charges.
